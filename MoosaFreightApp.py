@@ -23,7 +23,7 @@ openai_api_key = os.environ["OPENAI_API_KEY"]
 # Define Function 1 for Moosa API Call 
 
 def fetch_freight_rates(origin, destination, cargo_weight, cargo_type, weight, length, width, height, units):
-    url = "http://rates.mst.co.ke/api/LcLFreightRate"
+    url = "http:xxxxxxxxxxxxxxxxxxxxxe"
     params = {
         "origin": origin,
         "destination": destination,
